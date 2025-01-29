@@ -49,6 +49,8 @@
 ![](wallpapers/cute-cat.png)
 ### cyberpunk-lofi
 ![](wallpapers/cyberpunk-lofi.png)
+### cyberpunk
+![](wallpapers/cyberpunk.png)
 ### dark-nature
 ![](wallpapers/dark-nature.png)
 ### girl-cartoon
