@@ -13,6 +13,8 @@
 ![](wallpapers/anime-room.png)
 ### arch-chan
 ![](wallpapers/arch-chan.png)
+### arlecchino
+![](wallpapers/arlecchino.jpg)
 ### art-1
 ![](wallpapers/art-1.jpg)
 ### art-2
