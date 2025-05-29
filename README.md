@@ -15,14 +15,8 @@
 ![](wallpapers/arch-chan.png)
 ### arlecchino
 ![](wallpapers/arlecchino.jpg)
-### art-1
-![](wallpapers/art-1.jpg)
-### art-2
-![](wallpapers/art-2.jpg)
-### art-3
-![](wallpapers/art-3.png)
-### art-4
-![](wallpapers/art-4.png)
+### art
+![](wallpapers/art.png)
 ### astronaut-1
 ![](wallpapers/astronaut-1.jpg)
 ### astronaut-2
@@ -55,8 +49,6 @@
 ![](wallpapers/cyberpunk.png)
 ### dark-nature
 ![](wallpapers/dark-nature.png)
-### girl-cartoon
-![](wallpapers/girl-cartoon.png)
 ### girl-pink
 ![](wallpapers/girl-pink.png)
 ### kanji-girl
@@ -73,10 +65,8 @@
 ![](wallpapers/lofi-cat.png)
 ### lowpoly-street
 ![](wallpapers/lowpoly-street.png)
-### mario-1
-![](wallpapers/mario-1.jpg)
-### mario-2
-![](wallpapers/mario-2.png)
+### mario
+![](wallpapers/mario.png)
 ### minimal-squares
 ![](wallpapers/minimal-squares.jpg)
 ### mountain
