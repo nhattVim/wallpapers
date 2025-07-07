@@ -37,5 +37,5 @@ jobs:
           echo "> # (￣ y▽ ￣)╭ Ohohoho....." >> README.md
 
           git add README.md
-          git commit -m "Update README with latest wallpapers" || echo "No changes to commit"
+          git commit -m "✅ Update README with latest wallpapers" || echo "No changes to commit"
           git push
