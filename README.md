@@ -13,8 +13,6 @@
 ![](wallpapers/anime-room.png)
 ### arch-chan
 ![](wallpapers/arch-chan.png)
-### arlecchino
-![](wallpapers/arlecchino.jpg)
 ### art
 ![](wallpapers/art.png)
 ### astronaut-1
